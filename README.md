@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ultron21
-- 👀 I’m interested in quality assurance (software testing)
+- 👋 Hi, I’m @ultron21 formally known as Precious Okwaraebuzie.O
+- 👀 I’m interested in software quality assurance (software testing)
 - 🌱 I’m currently learning test automation and API testing.
 - 💞️ I’m looking to collaborate on projects that requires a software tester to improve my skills in this field
 - 📫 How to reach me info.ultron@gmail.com
